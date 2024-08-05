@@ -1,4 +1,4 @@
-# Joke Reader Chrome Extension
+# Joke Reader Chrome Extension 😁😝
 
 ## Overview
 The Joke Reader Chrome Extension brings a daily dose of humor directly to your browser. Specifically designed for visually impaired (VI) users, this extension automatically fetches and reads jokes aloud, making it accessible and fun for everyone. Additionally, it includes keyboard shortcuts for an enhanced user experience.
