@@ -23,6 +23,9 @@ The Joke Reader Chrome Extension brings a daily dose of humor directly to your b
 2. The joke will be displayed and read aloud automatically.
 3. Use Ctrl + A to start reading and Ctrl + P to stop reading.
 
+## Screenshot
+
+![Screenshot 2024-08-05 155517](https://github.com/user-attachments/assets/e47e8f45-ca73-48fd-a405-e50e422436aa)
 
 Contributing
 We welcome contributions! Please fork the repository and submit a pull request.
