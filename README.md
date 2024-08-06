@@ -25,7 +25,7 @@ The Joke Reader Chrome Extension brings a daily dose of humor directly to your b
 
 ## Screenshot
 
-![Screenshot 2024-08-05 155517](https://github.com/user-attachments/assets/e47e8f45-ca73-48fd-a405-e50e422436aa)
+![Screenshot 2024-08-06 140849](https://github.com/user-attachments/assets/4dbb3eb2-d046-4a0b-b7fe-d6206480811c)
 
 Contributing
 We welcome contributions! Please fork the repository and submit a pull request.
