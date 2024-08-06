@@ -5,7 +5,8 @@ The Joke Reader Chrome Extension brings a daily dose of humor directly to your b
 
 ## Features
 1. Automatic Joke Fetching: Fetches a new joke from an API and displays it in your browser.
-2. Text-to-Speech: Automatically reads the joke aloud using the Web Speech API.
+2. Also have the button to get the joke without closing the extention
+3. Text-to-Speech: Automatically reads the joke aloud using the Web Speech API.
 
 ## Keyboard Shortcuts:
 1. Ctrl + a: Start reading the joke.
@@ -21,7 +22,7 @@ The Joke Reader Chrome Extension brings a daily dose of humor directly to your b
 ## Usage
 1. Click on the extension icon to fetch a new joke.
 2. The joke will be displayed and read aloud automatically.
-3. Use Ctrl + A to start reading and Ctrl + P to stop reading.
+3. Use Ctrl + a to start reading and Ctrl + m to stop reading.
 
 ## Screenshot
 
